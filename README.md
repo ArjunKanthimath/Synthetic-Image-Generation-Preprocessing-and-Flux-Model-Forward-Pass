@@ -61,7 +61,7 @@ The initial setup for image generation and preprocessing was implemented in Goog
 - Generated the synthetic images in Google Colab using Python and the Diffusers library
 - Performed preprocessing steps in Colab and exported the resulting tensors as NumPy files
 - Downloaded the preprocessed image files locally
-- Completed the Flux model implementation and forward pass demonstration using Jupyter Lab with a Python kernal itself
+- Completed the Flux model implementation and forward pass demonstration using Jupyter Lab with a Python kernal itself (while running the flux model in your system locally change the the file path to your respective "preprocessed.npy" file)
 
 This hybrid approach allowed for optimal use of resources while overcoming difficulty integrating Julia code in Colab
 
